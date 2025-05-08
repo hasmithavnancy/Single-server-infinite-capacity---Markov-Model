@@ -21,7 +21,9 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 
 ## Experiment:
+![Screenshot 2025-05-08 160652](https://github.com/user-attachments/assets/e6af1038-57f6-4e1a-8364-838c886bcec3)
 
+![Screenshot 2025-05-08 160659](https://github.com/user-attachments/assets/2ba86846-a417-4c4c-a406-e126dcfe8f57)
 
  
 ## Program
